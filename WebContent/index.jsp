@@ -12,7 +12,7 @@
  <p>It seems like Server is running Good !!!</p>
  <a href="screenCapture">Screen Capture</a>
  <br>
- <h1>Shopping Cart</h1>
+ <h1>Shopping Cart Tesint GIT</h1>
  <form action="shoppingCart">
  	<p>Item : <select name="item"><option value="car">Car</option><option value="bike">Bike</option></select></p>
  	<input type="hidden" value="1" name="choice"> 
